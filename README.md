@@ -18,6 +18,7 @@ log-file-parser/
 ├── package.json         # Project metadata and ES module configuration
 ├── reports/             # Auto-generated Markdown diagnostic reports
 └── README.md            # Project documentation
+```
 
 ## Installation & Setup
 Clone the repository:
@@ -25,7 +26,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/emmanuel3186/log-file-parser.git
 cd log-file-parser
-
+```
 Ensure Node.js is installed:
 This project uses native ES modules ("type": "module"), requiring Node.js v14 or higher.
 
@@ -52,6 +53,7 @@ Enter log file path (e.g., app.log): app.log
 
 ## Detailed Logs
 - [2026-07-27 01:41:13] [ERROR]: DISM API: PID=20640 TID=19092 Time_InternalToPublic failed - Time_InternalToPublic(hr:0x80070057)
+```
 
 ## Tech Stack
 **Runtime:** Node.js
