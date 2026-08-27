@@ -31,16 +31,15 @@ Ensure Node.js is installed:
 This project uses native ES modules ("type": "module"), requiring Node.js v14 or higher.
 
 ## Usage
-Run the parser directly via Node.js:
-
+1. **Run the parser directly via Node.js:
 ```bash
 node log-file-parser.js
+```
 
 Enter target path when prompted:
-
 ```text
 Enter log file path (e.g., app.log): app.log
-
+```
 ## Sample Output Report
 ```markdown
 # System Status Report
