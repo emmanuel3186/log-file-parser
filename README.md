@@ -41,7 +41,7 @@ Enter target path when prompted:
 Enter log file path (e.g., app.log): app.log
 ```
 ## Sample Output Report
-```markdown
+
 # System Status Report
 **Generated:** 27/08/2026, 16:35:58
 
@@ -51,8 +51,7 @@ Enter log file path (e.g., app.log): app.log
 * **Critical:** 0
 
 ## Detailed Logs
-- [2026-07-27 01:41:13] [ERROR]: DISM API: PID=20640 TID=19092 Time_InternalToPublic failed - Time_InternalToPublic(hr:0x80070057)
-```
+- [2026-07-27 01:41:13] [ERROR]: DISM API: PID=20640 TID=19092 Time_InternalToPublic failed
 
 ## Tech Stack
 **Runtime:** Node.js
